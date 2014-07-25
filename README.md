@@ -1,6 +1,6 @@
 ## Droplink
 
-Experiment to open local Dropbox file from the browser.
+Experiment to open Dropbox files from the browser, locally.
 
 Usage:
 
