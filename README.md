@@ -8,6 +8,6 @@ Usage:
 2. Download [this project](https://github.com/shamrin/droplink/archive/master.zip).
 3. Run `python droplink.py` or double click droplink.py.
 
-Now all `http://localhost:7777/Dropbox/…` will be opened locally.
+Now all `http://localhost:7777/Dropbox/…` links will be opened locally.
 
-**Warning:** this project is experimental and very likely insecure.
+**Warning:** this project is experimental and insecure.
