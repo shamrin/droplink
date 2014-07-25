@@ -1,6 +1,6 @@
 ## Droplink
 
-Experiment to open Dropbox files from the browser, locally.
+Open Dropbox files from the browser, locally.
 
 Usage:
 
@@ -10,4 +10,4 @@ Usage:
 
 Now all `http://localhost:7777/Dropbox/…` will be opened locally.
 
-**Warning:** may be insecure!
+**Warning:** this project is experimental and very likely insecure.
